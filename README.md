@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Culprito.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning Python & SQL
-- 💞️ I’m looking to collaborate on small projects.
+- 💞️ I’m looking to collaborate on projects / builds.
 - 📫 How to reach me lib_colored_boy@hotmail.com
 
 <!---
