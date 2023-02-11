@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Culprito.
-- 👀 I’m interested in Data Analysis.
+- 👀 I’m interested in Data Analytics/Data Science/Coding.
 - 🌱 I’m currently learning Python & SQL
 - 💞️ I’m looking to collaborate on projects / builds.
 - 📫 How to reach me lib_colored_boy@hotmail.com
