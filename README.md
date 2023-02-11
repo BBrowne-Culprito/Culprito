@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BradleyB.
+- 👋 Hi, I’m @Culprito.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning Python & SQL
 - 💞️ I’m looking to collaborate on projects / builds.
